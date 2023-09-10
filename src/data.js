@@ -39,7 +39,7 @@ export const projects = [
     description:
       "This is a CMS-style blog site where developers can publish their blog posts and comment on other developers' posts. The application follows the Model-View-Controller (MVC) paradigm in its architectural structure and uses Handlebars.js as the templating language, Sequelize as the ORM tool.",
       image: "./Techblogspot.png",
-    link: "https://soniasebastian.github.io/techblog_handlebars/",
+    link: "https://powerful-brushlands-30942-1c181b1eee8a.herokuapp.com/",
   },
   {
     title: "Weather App",
