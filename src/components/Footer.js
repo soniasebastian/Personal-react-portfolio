@@ -7,7 +7,7 @@ export default function Footer() {
   <div class="container px-6 pt-6">
     <div class="mb-6 flex justify-center">
       <a
-        href="#!"
+        href="https://www.facebook.com/your-facebook-sonia.sebastian6" target="_blank"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
@@ -23,7 +23,7 @@ export default function Footer() {
       </a>
 
       <a
-        href="#!"
+        href="https://twitter.com/SoniaSe77818632"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
@@ -39,7 +39,7 @@ export default function Footer() {
       </a>
 
       <a
-        href="#!"
+        href="mailto:soniasebastian011@gmail.com"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
@@ -57,7 +57,7 @@ export default function Footer() {
       </a>
 
       <a
-        href="#!"
+        href="https://www.instagram.com/your-instagram-sonia.sebastian6" target="_blank"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
@@ -73,7 +73,7 @@ export default function Footer() {
       </a>
 
       <a
-        href="#!"
+        href="https://www.linkedin.com/in/sonia-sebastian-moothedan/"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
@@ -89,7 +89,7 @@ export default function Footer() {
       </a>
 
       <a
-        href="#!"
+        href="https://github.com/soniasebastian/"
         type="button"
         class="m-1 h-9 w-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150 ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0"
         data-te-ripple-init
