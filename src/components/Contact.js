@@ -50,6 +50,7 @@ export default function Contact() {
         email: "",
         message: "",
       });
+      alert("Details submitted");
     }
   };
 
