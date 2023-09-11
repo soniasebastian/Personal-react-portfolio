@@ -5,6 +5,10 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
 [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](https://expressjs.com/)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-%231a202c?logo=tailwind-css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 
  
 ## Description
