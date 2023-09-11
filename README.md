@@ -17,7 +17,6 @@ A personal portfolio application build using React.js including sections for Abo
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Screenshots](#Screenshots)
 - [Contribution](#Contribution)
 - [Test](#Test) 
 - [Questions](#Questions)
@@ -74,17 +73,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <br>
 
 
-## Screenshots
-
-
-
-
 ## Links
 The URL of deployed application with gh-pages- (https://soniasebastian.github.io/Personal-react-portfolio/)
 
-
-The URL of the github repository- 
-
+The URL of the github repository- (https://github.com/soniasebastian/Personal-react-portfolio)
 
 ## Contribution:
    Contributions are most welcome such as bug fixes, feature enhancements, documentation improvements and code optimization.
