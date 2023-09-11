@@ -80,10 +80,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Links
-The URL of deployed application with gh-pages
+The URL of deployed application with gh-pages- (https://soniasebastian.github.io/Personal-react-portfolio/)
 
 
-The URL of the github repository 
+The URL of the github repository- 
 
 
 ## Contribution:
